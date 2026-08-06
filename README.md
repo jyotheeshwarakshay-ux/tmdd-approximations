@@ -141,4 +141,5 @@ install.packages(c("rxode2", "nlmixr2"))
 
 ---
 
-Part of a pharmacometrics portfolio in preparation for doctoral research in Quantitative Systems Pharmacology. Project 1: [Theophylline population PK model](https://github.com/jyotheeshwarakshay-ux/Theophylline-popPK).
+Part of a pharmacometrics portfolio in preparation for doctoral research in Quantitative Systems Pharmacology. Project 1: - - [Theophylline population PK model](https://github.com/jyotheeshwarakshay-ux/Theophylline-popPK).
+- [denosumab-mpbpk](https://github.com/jyotheeshwarakshay-ux/denosumab-mpbpk) — platform antibody PBPK model applied to denosumab bone exposure, part of the same denosumab modeling programme.
